@@ -1,0 +1,16 @@
+{
+  "name": "ble-wifi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Giles",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "bleno": "^0.4.1",
+    "native-dns": "^0.7.0",
+    "noble": "^1.7.0"
+  }
+}
